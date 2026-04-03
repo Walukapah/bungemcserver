@@ -1,7 +1,7 @@
 network_compression_threshold: 256
 remote_ping_timeout: 5000
 remote_ping_cache: -1
-online_mode: true
+online_mode: false
 forge_support: false
 max_packets_per_second: 4096
 servers:
@@ -23,7 +23,7 @@ stats: 2e721b5f-b1e5-43b3-b5a3-77cb404c4901
 groups:
   md_5:
   - admin
-ip_forward: false
+ip_forward: true
 permissions:
   default:
   - bungeecord.command.server

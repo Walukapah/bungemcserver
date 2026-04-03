@@ -106,3 +106,40 @@
 02:53:40 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected
 03:01:53 [INFO] [/127.31.228.237:53205] <-> InitialHandler has pinged
 03:03:18 [INFO] [/127.31.228.237:60947] <-> InitialHandler has pinged
+03:10:09 [INFO] [/127.187.34.93:47131] <-> InitialHandler has pinged
+03:10:13 [INFO] [/127.187.34.93:40653] <-> InitialHandler has connected
+03:10:13 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has connected
+03:10:13 [INFO] [/127.0.153.98:40319] <-> InitialHandler has connected
+03:10:14 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
+03:10:14 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
+03:10:14 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected
+03:10:18 [INFO] [/127.187.34.93:40991] <-> InitialHandler has connected
+03:10:19 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has connected
+03:10:19 [INFO] [/127.0.153.98:46073] <-> InitialHandler has connected
+03:10:19 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
+03:10:19 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
+03:10:19 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected
+03:10:21 [INFO] [/127.187.34.93:57633] <-> InitialHandler has connected
+03:10:22 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has connected
+03:10:22 [INFO] [/127.0.153.98:55113] <-> InitialHandler has connected
+03:10:22 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
+03:10:22 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
+03:10:22 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected
+03:10:25 [INFO] [/127.187.34.93:33687] <-> InitialHandler has connected
+03:10:25 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has connected
+03:10:25 [INFO] [/127.0.153.98:53323] <-> InitialHandler has connected
+03:10:26 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
+03:10:26 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
+03:10:26 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected
+03:10:27 [INFO] [/127.187.34.93:60997] <-> InitialHandler has connected
+03:10:27 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has connected
+03:10:27 [INFO] [/127.0.153.98:38709] <-> InitialHandler has connected
+03:10:28 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
+03:10:28 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
+03:10:28 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected
+03:10:29 [INFO] [/127.187.34.93:60245] <-> InitialHandler has connected
+03:10:30 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has connected
+03:10:30 [INFO] [/127.0.153.98:40623] <-> InitialHandler has connected
+03:10:30 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
+03:10:30 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
+03:10:30 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected

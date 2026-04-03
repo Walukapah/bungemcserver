@@ -7,7 +7,7 @@ max_packets_per_second: 4096
 servers:
   lobby:
     motd: '&1Just another BungeeCord - Forced Host'
-    address: localhost:25565
+    address: actually-automotive.gl.joinmc.link
     restricted: false
 disabled_commands:
 - disabledcommandhere

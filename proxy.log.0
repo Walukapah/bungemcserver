@@ -84,3 +84,10 @@
 02:51:42 [SEVERE] [/127.187.34.93:46923] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 524f585920544350342034332e323530
 02:51:47 [SEVERE] [/127.187.34.93:55591] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 524f585920544350342034332e323530
 02:51:48 [SEVERE] [/127.187.34.93:33559] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 524f585920544350342034332e323530
+02:51:58 [INFO] [/127.187.34.93:60125] <-> InitialHandler has pinged
+02:52:00 [INFO] [/127.187.34.93:52565] <-> InitialHandler has connected
+02:52:00 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has connected
+02:52:00 [INFO] [/127.0.153.98:45811] <-> InitialHandler has connected
+02:52:01 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
+02:52:01 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
+02:52:01 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected

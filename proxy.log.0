@@ -143,3 +143,28 @@
 03:10:30 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
 03:10:30 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
 03:10:30 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected
+07:22:44 [INFO] Using mbed TLS based native cipher.
+07:22:44 [INFO] Using zlib based native compressor.
+07:22:44 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:26.1-R0.1-SNAPSHOT:4f377ac:2061
+07:22:44 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+07:22:44 [INFO] Epoll is working, utilising it!
+07:22:44 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+07:22:44 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+07:22:44 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+07:22:44 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+07:22:44 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+07:22:44 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+07:22:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Loaded plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Loaded plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Loaded plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Loaded plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [WARNING] Forced host server pvp is not defined
+07:22:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Enabled plugin cmd_find version git:cmd_find:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Enabled plugin cmd_server version git:cmd_server:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Enabled plugin cmd_send version git:cmd_send:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Enabled plugin cmd_list version git:cmd_list:26.1-R0.1-SNAPSHOT:4f377ac:2061 by SpigotMC
+07:22:44 [INFO] Listening on /0.0.0.0:25577

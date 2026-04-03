@@ -69,3 +69,18 @@
 02:46:40 [INFO] Listening on /0.0.0.0:25577
 02:48:21 [INFO] [/127.31.228.237:48645] <-> InitialHandler has pinged
 02:50:47 [INFO] [/127.187.34.93:43381] <-> InitialHandler has pinged
+02:50:50 [INFO] [/127.187.34.93:58321] <-> InitialHandler has connected
+02:50:50 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has connected
+02:50:50 [INFO] [/127.0.153.98:38145] <-> InitialHandler has connected
+02:50:51 [INFO] [Waluka_Me] disconnected with: §f§cKicked whilst connecting to lobby: §cYou are already connected to this proxy!
+02:50:51 [INFO] [Waluka_Me] -> UpstreamBridge has disconnected
+02:50:51 [INFO] [Waluka_Me] <-> ServerConnector [lobby] has disconnected
+02:51:20 [SEVERE] [/127.187.34.93:52817] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0a0d0a000d0a515549540a2111
+02:51:20 [SEVERE] [/127.187.34.93:41113] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0a0d0a000d0a515549540a2111
+02:51:23 [SEVERE] [/127.187.34.93:42335] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0a0d0a000d0a515549540a2111
+02:51:31 [SEVERE] [/127.187.34.93:56799] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 0a0d0a000d0a515549540a2111
+02:51:40 [SEVERE] [/127.187.34.93:59315] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 524f585920544350342034332e323530
+02:51:41 [SEVERE] [/127.187.34.93:39557] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 524f585920544350342034332e323530
+02:51:42 [SEVERE] [/127.187.34.93:46923] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 524f585920544350342034332e323530
+02:51:47 [SEVERE] [/127.187.34.93:55591] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 524f585920544350342034332e323530
+02:51:48 [SEVERE] [/127.187.34.93:33559] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 524f585920544350342034332e323530
